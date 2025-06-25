@@ -68,6 +68,6 @@ If you want to test this setup:
 
 1\. Clone the repo:  
    \`\`\`bash  
-   git clone https://github.com/YOUR-USERNAME/juice-shop-security.git  
+   git clone  https://github.com/dontGi/juice-shop-security-project.git
    cd juice-shop-security
 
